@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(215, 231, 171);
+    background: linear-gradient(rgba(4,9,30,0.7), rgba(101, 110, 143, 0.7)), url(img/background.jpg);
+    background-attachment: fixed;
 }
 
 #container{
